@@ -1,0 +1,15 @@
+eda/data/raw/
+eda/data/interim/
+*.tar
+*.zip
+*.7z
+eda/data/raw/
+eda/data/interim/
+eda/actual eda/csv/
+*.tar
+*.zip
+eda/data/raw/
+eda/data/interim/
+eda/actual eda/csv/
+*.tar
+*.zip
